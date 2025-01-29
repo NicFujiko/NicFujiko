@@ -21,9 +21,11 @@
 <a href="https://www.linkedin.com/in/nicolli-fujiko-hiramatsu-26a69b218" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=nicfujiko&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nicfujiko&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicfujiko&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div>
+<a href="https://github.com/nicfujiko">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicfujiko&layout=compact&langs_count=7&theme=dark"/> 
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nicfujiko&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
 ## GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=nicfujiko&theme=dark&no-frame=true&no-bg=true&margin-w=4)
