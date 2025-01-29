@@ -20,12 +20,12 @@
 <a href="mailto:nicolli.fujiko@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nicolli-fujiko-hiramatsu-26a69b218" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-# GitHub Stats 📊
+## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=nicfujiko&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nicfujiko&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicfujiko&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=nicfujiko&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
