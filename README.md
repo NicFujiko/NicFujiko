@@ -1,16 +1,27 @@
-## Hi there 👋
+![Header](./github-header-image.png)
 
-<!--
-**NicFujiko/NicFujiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=100&size=17&pause=1000&color=979797&width=690&lines=Currently+in+the+2nd+semester+of+Systems+Analysis+and+Development;Improving+my+programming+skills+with+Alura;Currently+Studying%3A+HTML%2C+CSS%2C+JavaScript%2C+and+web+development;Currently+working+at+Foundever)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## Languages 🌏
+- 🇧🇷 **Portuguese:** Native  
+- 🇺🇸 **English:** Advanced  
+- 🇯🇵 **Japanese:** Intermediate 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current learning 📖
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+## Contact me ✉️
+<div>
+<a href="mailto:nicolli.fujiko@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nicolli-fujiko-hiramatsu-26a69b218" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## Random Dev Quote ✍️
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nicfujiko&icon=0&color=0)](https://visitcount.itsvg.in)
