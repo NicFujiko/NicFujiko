@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=100&size=18&pause=1000&color=979797&width=961&lines=In+the+3st+semester+of+Data+Science+at+FIAP;Improving+my+programming+skills+with+Alura;Studying%3A+Python%2C+SQL%2C+and+PowerBI;Currently+working+at+Foundever)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=100&size=18&pause=1000&color=979797&width=961&lines=In+the+3st+semester+of+Data+Science+at+FIAP;Improving+my+programming+skills+with+Alura;Currently+studying%3A+Python%2C+SQL+and+PowerBI;Currently+working+at+Foundever)](https://git.io/typing-svg)
 
 ## Languages 🌏
 - 🇧🇷 **Portuguese:** Native  
